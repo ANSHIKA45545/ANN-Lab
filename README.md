@@ -96,4 +96,4 @@ Each experiment includes:
 
 2. Navigate to the project folder
 ```
-cd ANN_LAB
+   cd ANN_LAB
